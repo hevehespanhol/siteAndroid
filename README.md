@@ -1,10 +1,9 @@
-<center> <h1>Site Android</h1> </center>
+<h1 align="center">Site Android</h1>
 
-<center> Criado através do curso de HTML5 e CSS3 do CursoemVideo.
+<center>Criado através do curso de HTML5 e CSS3 do CursoemVideo.
 
-[Acesse o site Aqui!!](https://hevehespanhol.github.io/siteAndroid/)
+<a href="https://hevehespanhol.github.io/siteAndroid/">Acesse o site aqui!!</a>
 
 Você também pode acessar através do QRCODE:
 
 <img src="imagens/QRCODEdoSiteAndroid.png" alt="QRCODE" width="80"/>
-</center>
