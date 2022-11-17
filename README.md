@@ -2,7 +2,7 @@
 
 <p align="center">Criado através do curso de HTML5 e CSS3 do CursoemVideo.</p>
 
-<p align="center"><a href="https://hevehespanhol.github.io/siteAndroid/" target="_blank">Acesse o site aqui!!</a></p>
+<p align="center"><a target="_blank" href="https://hevehespanhol.github.io/siteAndroid/">Acesse o site aqui!!</a></p>
 
 <p align="center">Você também pode acessar através do QRCODE:</p>
 
