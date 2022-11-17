@@ -1,6 +1,6 @@
 <h1 align="center">Site Android</h1>
 
-<center>Criado através do curso de HTML5 e CSS3 do CursoemVideo.
+<center>Criado através do curso de HTML5 e CSS3 do CursoemVideo.</center>
 
 <a href="https://hevehespanhol.github.io/siteAndroid/">Acesse o site aqui!!</a>
 
